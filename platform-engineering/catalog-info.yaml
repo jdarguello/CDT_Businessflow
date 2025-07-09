@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: cdt-businessflow
+  description: Administra los flujos de negocio correspondientes a una Inversión Virtual en el BancoC.
+spec:
+  owner: EVC-Inversiones
+  domain: transacciones
